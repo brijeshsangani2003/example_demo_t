@@ -1,0 +1,34 @@
+{
+  "hello": "HELLO",
+  "message": "WELCOME TO MY APP",
+  "chooseLanguage": "Choose a language",
+  "changeLanguage": "Change Language",
+
+  "todoScreen": "Todo Screen",
+  "albumScreen": "Album Screen",
+  "postScreen": "Post Screen",
+  "commentScreen": "Comment Screen",
+  "userScreen": "User Screen",
+  "photoScreen": "Photo Screen",
+
+  "search": "Search...",
+  "dataNotFound": "Data not found",
+
+  "id": "Id:-",
+  "title": "Title:-",
+  "completed": "Completed:-",
+  "name": "Name:-",
+  "email": "Email:-",
+  "userId": "User Id:-",
+  "userName": "User Name:-",
+  "body": "Body:-",
+
+  "localization": "Localization",
+  "todoAlbum": "TodoAlbum",
+  "postComment": "PostComment",
+  "userPhoto": "UserPhoto",
+  "anime": "Anime"
+
+
+
+}

@@ -1,0 +1,31 @@
+{
+  "hello": "हैलो",
+  "message": "मेरे ऐप में आपका स्वागत है",
+  "chooseLanguage": "एक भाषा चुनें",
+  "changeLanguage": "भाषा बदलें",
+
+  "todoScreen": "सभी स्क्रीन",
+  "albumScreen": "एल्बम स्क्रीन",
+  "postScreen": "पोस्ट स्क्रीन",
+  "commentScreen": "टिप्पणी स्क्रीन",
+  "userScreen": "उपयोगकर्ता स्क्रीन",
+  "photoScreen": "फोटो स्क्रीन",
+
+  "search": "खोज...",
+  "dataNotFound": "डेटा नहीं मिला",
+
+  "id": "पहचान:-",
+  "title": "शीर्षक:-",
+  "completed": "पुरा होना:-",
+  "name": "नाम:-",
+  "email": "ईमेल:-",
+  "userId": "उपयोगकर्ता पहचान:-",
+  "userName": "उपयोगकर्ता नाम:-",
+  "body": "बोडी:-",
+
+  "localization": "स्थानीयकरण",
+  "todoAlbum": "टोलोएल्बम",
+  "postComment": "पोस्टकमेनट",
+  "userPhoto": "उपयोक्ताफोटो",
+  "anime": "एनिमे"
+}
